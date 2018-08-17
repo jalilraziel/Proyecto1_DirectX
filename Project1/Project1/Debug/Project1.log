@@ -1,0 +1,58 @@
+﻿  Source.cpp
+d:\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53655): note: vea la definición anterior de 'DXGI_STATUS_OCCLUDED'
+d:\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53664): note: vea la definición anterior de 'DXGI_STATUS_CLIPPED'
+d:\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53673): note: vea la definición anterior de 'DXGI_STATUS_NO_REDIRECTION'
+d:\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53682): note: vea la definición anterior de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+d:\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53691): note: vea la definición anterior de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53700): note: vea la definición anterior de 'DXGI_STATUS_MODE_CHANGED'
+d:\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53709): note: vea la definición anterior de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+d:\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53724): note: vea la definición anterior de 'DXGI_ERROR_INVALID_CALL'
+d:\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53733): note: vea la definición anterior de 'DXGI_ERROR_NOT_FOUND'
+d:\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53742): note: vea la definición anterior de 'DXGI_ERROR_MORE_DATA'
+d:\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53751): note: vea la definición anterior de 'DXGI_ERROR_UNSUPPORTED'
+d:\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53760): note: vea la definición anterior de 'DXGI_ERROR_DEVICE_REMOVED'
+d:\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53769): note: vea la definición anterior de 'DXGI_ERROR_DEVICE_HUNG'
+d:\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53779): note: vea la definición anterior de 'DXGI_ERROR_DEVICE_RESET'
+d:\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53788): note: vea la definición anterior de 'DXGI_ERROR_WAS_STILL_DRAWING'
+d:\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53798): note: vea la definición anterior de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+d:\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53807): note: vea la definición anterior de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53817): note: vea la definición anterior de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+d:\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53826): note: vea la definición anterior de 'DXGI_ERROR_NONEXCLUSIVE'
+d:\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53835): note: vea la definición anterior de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+d:\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53845): note: vea la definición anterior de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+d:\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(53854): note: vea la definición anterior de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+d:\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54118): note: vea la definición anterior de 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54127): note: vea la definición anterior de 'D3D11_ERROR_FILE_NOT_FOUND'
+d:\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54137): note: vea la definición anterior de 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+d:\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54146): note: vea la definición anterior de 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+d:\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54094): note: vea la definición anterior de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54103): note: vea la definición anterior de 'D3D10_ERROR_FILE_NOT_FOUND'
+  Project1.vcxproj -> C:\Users\Jalil Raziel\Desktop\Nueva carpeta\PRUBA\Project1\Debug\Project1.exe
